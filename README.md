@@ -1,6 +1,5 @@
 # 💫 About Me:
-> A passionate developer
-> Im currently working on full stack mobile app
+A passionate developer
 
 
 ## 🌐 Socials:
